@@ -1,0 +1,59 @@
+   0 whuami
+   1 whoami
+   2 rename --help
+   3 cd /
+   4 ls
+   5 ls --help
+   6 ls -a
+   7 ls -l
+   8 ls -la
+   9  cd /home
+  10 ls
+  11 ls -a
+  12 sd ..
+  13 cd ..
+  14 cd /home
+  15 mkdir user1
+  16 ls
+  17 cd user1/
+  18 mkdir task1
+  19 ls
+  20 cd task1/
+  21 history
+  22 touch file.txt
+  23 ls
+  24 cd
+  25 pwd
+  26 tree
+  27 clier
+  28 clear
+  29 tree /
+  30 tree /home
+  31 ls
+  32 ls /home
+  33 cd
+  34 mkdir /home/user2/task2
+  35 mkdir --help
+  36 mkdir -p /home/user2/task2
+  37 touch /home/user2/task2/file2.txt
+  38 mkdir -p /home/user2/task2/ivan
+  39 mkdir -p /home/user3 /opt/user1 /tmp/user1/task1
+  40 tree /home/
+  41 touch /home/
+  42 touch /home/user
+  43 touch /home/user3/file2.txt /opt/user1/file2.txt /tmp/user1/file2.txt
+  44 mkdir /tmp/user2/ && touch /tmp/user2/file3.txt
+  45 date
+  46 cp /home/user1/task1/file.txt /
+  47 ls /
+  48 mv /home/user2/task2/file2.txt /var/1.txt
+  49 ls /
+  50 ls /var/
+  51 clear
+  52 cp -R/home /opt
+  53 cp -R/home /opt/
+  54 cp -R /home /opt/
+  55 rm -rf /tmp/user1
+  56 ls /tmp/
+  57 history
+  58 history > history.txt 
